@@ -1,5 +1,5 @@
 Config              = {}
-Config.MarkerType   = 1 -- Marker visible or not. -1 = hiden  Set to 1 for a visible marker. To have a list of avaible marker go to https://docs.fivem.net/game-references/markers/
+Config.MarkerType   = -1 -- Marker visible or not. -1 = hiden  Set to 1 for a visible marker. To have a list of avaible marker go to https://docs.fivem.net/game-references/markers/
 Config.DrawDistance = 100.0 --Distance where the marker be visible from
 Config.ZoneSize     = {x = 7.0, y = 7.0, z = 3.0} -- Size of the marker
 Config.MarkerColor  = {r = 0, g = 0, b = 0} --Color of the marker
